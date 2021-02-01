@@ -59,6 +59,7 @@ class MainWindows(QMainWindow):
         self.ui.question.append("发生错误，错误如下")
         self.ui.answer.append(e)  
 if __name__ == "__main__":
+    # 创建GUI
     app = QApplication(sys.argv)
     window = MainWindows()
     window.show()
