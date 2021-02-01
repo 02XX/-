@@ -62,9 +62,7 @@ if __name__ == "__main__":
     app = QApplication(sys.argv)
     window = MainWindows()
     window.show()
-    #循环
     sys.exit(app.exec_())
-    
     
 
 
