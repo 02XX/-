@@ -24,7 +24,7 @@ class MainWindows(QMainWindow):
         self.global_signal.error.connect(self.print_error)
         self.ui.q.returnPressed.connect(self.crawl)
         self.icon = QIcon()
-        self.icon.addFile(u"./UI/02.ico", QSize(), QIcon.Normal, QIcon.Off)
+        self.icon.addFile(u"Searcher.ico", QSize(), QIcon.Normal, QIcon.Off)
         self.setWindowIcon(self.icon)
     def crawl(self):
         def start():

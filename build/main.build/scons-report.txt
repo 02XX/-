@@ -2,7 +2,7 @@ CC=<clcache>
 CCCOM=${TEMPFILE("$CC $_MSVC_OUTPUT_FLAG /c $CHANGED_SOURCES $CFLAGS $CCFLAGS $_CCCOMCOM","$CCCOMSTR")}
 CFILESUFFIX=.c
 CLCACHE_DIR=C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\clcache
-CLCACHE_STATS=E:\code\Python\Searcher\build\main.build\clcache-stats.17792.txt
+CLCACHE_STATS=E:\code\Python\Searcher\build\main.build\clcache-stats.18048.txt
 CPPDEFINES=['_NUITKA_WINMAIN_ENTRY_POINT', '__NUITKA_NO_ASSERT__', '_NUITKA_CONSTANTS_FROM_RESOURCE', '_NUITKA_FROZEN=0', '_NUITKA_EXE']
 CPPDEFPREFIX=/D
 CPPDEFSUFFIX=
