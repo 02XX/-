@@ -1,0 +1,813 @@
+[2021-04-15T22:39:40.035785 1400 ] === CCACHE 3.7.12 STARTED =========================================
+[2021-04-15T22:39:40.035785 9912 ] === CCACHE 3.7.12 STARTED =========================================
+[2021-04-15T22:39:40.036784 15600] === CCACHE 3.7.12 STARTED =========================================
+[2021-04-15T22:39:40.036784 14776] === CCACHE 3.7.12 STARTED =========================================
+[2021-04-15T22:39:40.035785 9912 ] Config: (default) base_dir = 
+[2021-04-15T22:39:40.035785 9912 ] Config: (environment) cache_dir = C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-04-15T22:39:40.035785 9912 ] Config: (default) cache_dir_levels = 2
+[2021-04-15T22:39:40.035785 9912 ] Config: (default) compiler = 
+[2021-04-15T22:39:40.035785 9912 ] Config: (default) compiler_check = mtime
+[2021-04-15T22:39:40.035785 9912 ] Config: (default) compression = false
+[2021-04-15T22:39:40.035785 9912 ] Config: (default) compression_level = 6
+[2021-04-15T22:39:40.035785 9912 ] Config: (default) cpp_extension = 
+[2021-04-15T22:39:40.035785 9912 ] Config: (default) debug = false
+[2021-04-15T22:39:40.035785 9912 ] Config: (default) depend_mode = false
+[2021-04-15T22:39:40.035785 9912 ] Config: (default) direct_mode = true
+[2021-04-15T22:39:40.035785 9912 ] Config: (default) disable = false
+[2021-04-15T22:39:40.035785 9912 ] Config: (default) extra_files_to_hash = 
+[2021-04-15T22:39:40.035785 9912 ] Config: (default) hard_link = false
+[2021-04-15T22:39:40.035785 9912 ] Config: (default) hash_dir = true
+[2021-04-15T22:39:40.035785 9912 ] Config: (default) ignore_headers_in_manifest = 
+[2021-04-15T22:39:40.035785 9912 ] Config: (default) keep_comments_cpp = false
+[2021-04-15T22:39:40.035785 9912 ] Config: (default) limit_multiple = 0.8
+[2021-04-15T22:39:40.035785 9912 ] Config: (environment) log_file = E:\code\Python\Searcher\main.build\ccache-1028.txt
+[2021-04-15T22:39:40.035785 9912 ] Config: (default) max_files = 0
+[2021-04-15T22:39:40.035785 9912 ] Config: (C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-04-15T22:39:40.035785 9912 ] Config: (default) path = 
+[2021-04-15T22:39:40.035785 9912 ] Config: (default) pch_external_checksum = false
+[2021-04-15T22:39:40.035785 9912 ] Config: (default) prefix_command = 
+[2021-04-15T22:39:40.035785 9912 ] Config: (default) prefix_command_cpp = 
+[2021-04-15T22:39:40.035785 9912 ] Config: (default) read_only = false
+[2021-04-15T22:39:40.035785 9912 ] Config: (default) read_only_direct = false
+[2021-04-15T22:39:40.035785 9912 ] Config: (default) recache = false
+[2021-04-15T22:39:40.035785 9912 ] Config: (default) run_second_cpp = true
+[2021-04-15T22:39:40.035785 9912 ] Config: (default) sloppiness = 
+[2021-04-15T22:39:40.035785 9912 ] Config: (default) stats = true
+[2021-04-15T22:39:40.035785 9912 ] Config: (default) temporary_dir = 
+[2021-04-15T22:39:40.035785 9912 ] Config: (default) umask = 
+[2021-04-15T22:39:40.036784 9912 ] Command line: C:\Users\HP\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe D:\mingw-w64\bin\gcc.exe -o module.need.UI.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D_NUITKA_WINMAIN_ENTRY_POINT -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -ID:\Python\Python39\include -I. -ID:\Python\Python39\lib\site-packages\nuitka\build\include -ID:\Python\Python39\lib\site-packages\nuitka\build\static_src module.need.UI.c
+[2021-04-15T22:39:40.037785 9912 ] Hostname: DESKTOP-7E90VAO
+= 
+[2021-04-15T22:39:40.036784 15600] Config: (environment) cache_dir = C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-04-15T22:39:40.036784 15600] Config: (default) cache_dir_levels = 2
+[2021-04-15T22:39:40.036784 15600] Config: (default) compiler = 
+[2021-04-15T22:39:40.036784 15600] Config: (default) compiler_check = mtime
+[2021-04-15T22:39:40.036784 15600] Config: (default) compression = false
+[2021-04-15T22:39:40.036784 15600] Config: (default) compression_level = 6
+[2021-04-15T22:39:40.036784 15600] Config: (default) cpp_extension = 
+[2021-04-15T22:39:40.036784 15600] Config: (default) debug = false
+[2021-04-15T22:39:40.036784 15600] Config: (default) depend_mode = false
+[2021-04-15T22:39:40.036784 15600] Config: (default) direct_mode = true
+[2021-04-15T22:39:40.036784 15600] Config: (default) disable = false
+[2021-04-15T22:39:40.036784 15600] Config: (default) extra_files_to_hash = 
+[2021-04-15T22:39:40.036784 15600] Config: (default) hard_link = false
+[2021-04-15T22:39:40.036784 15600] Config: (default) hash_dir = true
+[2021-04-15T22:39:40.036784 15600] Config: (default) ignore_headers_in_manifest = 
+[2021-04-15T22:39:40.036784 15600] Config: (default) keep_comments_cpp = false
+[2021-04-15T22:39:40.036784 15600] Config: (default) limit_multiple = 0.8
+[2021-04-15T22:39:40.036784 15600] Config: (environment) log_file = E:\code\Python\Searcher\main.build\ccache-1028.txt
+[2021-04-15T22:39:40.036784 15600] Config: (default) max_files = 0
+[2021-04-15T22:39:40.036784 15600] Config: (C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-04-15T22:39:40.036784 15600] Config: (default) path = 
+[2021-04-15T22:39:40.036784 15600] Config: (default) pch_external_checksum = false
+[2021-04-15T22:39:40.036784 15600] Config: (default) prefix_command = 
+[2021-04-15T22:39:40.036784 15600] Config: (default) prefix_command_cpp = 
+[2021-04-15T22:39:40.036784 15600] Config: (default) read_only = false
+[2021-04-15T22:39:40.036784 15600] Config: (default) read_only_direct = false
+[2021-04-15T22:39:40.036784 15600] Config: (default) recache = false
+[2021-04-15T22:39:40.036784 15600] Config: (default) run_second_cpp = true
+[2021-04-15T22:39:40.036784 15600] Config: (default) sloppiness = 
+[2021-04-15T22:39:40.036784 15600] Config: (default) stats = true
+[2021-04-15T22:39:40.036784 15600] Config: (default) temporary_dir = 
+[2021-04-15T22:39:40.036784 15600] Config: (default) umask = 
+[2021-04-15T22:39:40.037785 15600] Command line: C:\Users\HP\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe D:\mingw-w64\bin\gcc.exe -o __constants.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D_NUITKA_WINMAIN_ENTRY_POINT -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -ID:\Python\Python39\include -I. -ID:\Python\Python39\lib\site-packages\nuitka\build\include -ID:\Python\Python39\lib\site-packages\nuitka\build\static_src __constants.c
+in__.c
+[2021-04-15T22:39:40.037785 1400 ] Hostname: DESKTOP-7E90VAO
+[2021-04-15T22:39:40.037785 15600] Hostname: DESKTOP-7E90VAO
+[2021-04-15T22:39:40.037785 9912 ] Working directory: E:\code\Python\Searcher\main.build
+[2021-04-15T22:39:40.037785 1400 ] Working directory: E:\code\Python\Searcher\main.build
+[2021-04-15T22:39:40.037785 15600] Working directory: E:\code\Python\Searcher\main.build
+[2021-04-15T22:39:40.036784 14776] Config: (default) base_dir = 
+[2021-04-15T22:39:40.036784 14776] Config: (environment) cache_dir = C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-04-15T22:39:40.036784 14776] Config: (default) cache_dir_levels = 2
+[2021-04-15T22:39:40.036784 14776] Config: (default) compiler = 
+[2021-04-15T22:39:40.036784 14776] Config: (default) compiler_check = mtime
+[2021-04-15T22:39:40.036784 14776] Config: (default) compression = false
+[2021-04-15T22:39:40.036784 14776] Config: (default) compression_level = 6
+[2021-04-15T22:39:40.036784 14776] Config: (default) cpp_extension = 
+[2021-04-15T22:39:40.036784 14776] Config: (default) debug = false
+[2021-04-15T22:39:40.036784 14776] Config: (default) depend_mode = false
+[2021-04-15T22:39:40.036784 14776] Config: (default) direct_mode = true
+[2021-04-15T22:39:40.036784 14776] Config: (default) disable = false
+[2021-04-15T22:39:40.036784 14776] Config: (default) extra_files_to_hash = 
+[2021-04-15T22:39:40.036784 14776] Config: (default) hard_link = false
+[2021-04-15T22:39:40.036784 14776] Config: (default) hash_dir = true
+[2021-04-15T22:39:40.036784 14776] Config: (default) ignore_headers_in_manifest = 
+[2021-04-15T22:39:40.036784 14776] Config: (default) keep_comments_cpp = false
+[2021-04-15T22:39:40.036784 14776] Config: (default) limit_multiple = 0.8
+[2021-04-15T22:39:40.036784 14776] Config: (environment) log_file = E:\code\Python\Searcher\main.build\ccache-1028.txt
+[2021-04-15T22:39:40.036784 14776] Config: (default) max_files = 0
+[2021-04-15T22:39:40.036784 14776] Config: (C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-04-15T22:39:40.036784 14776] Config: (default) path = 
+[2021-04-15T22:39:40.036784 14776] Config: (default) pch_external_checksum = false
+[2021-04-15T22:39:40.036784 14776] Config: (default) prefix_command = 
+[2021-04-15T22:39:40.036784 14776] Config: (default) prefix_command_cpp = 
+[2021-04-15T22:39:40.036784 14776] Config: (default) read_only = false
+[2021-04-15T22:39:40.036784 14776] Config: (default) read_only_direct = false
+[2021-04-15T22:39:40.036784 14776] Config: (default) recache = false
+[2021-04-15T22:39:40.036784 14776] Config: (default) run_second_cpp = true
+[2021-04-15T22:39:40.036784 14776] Config: (default) sloppiness = 
+[2021-04-15T22:39:40.036784 14776] Config: (default) stats = true
+[2021-04-15T22:39:40.036784 14776] Config: (default) temporary_dir = 
+[2021-04-15T22:39:40.036784 14776] Config: (default) umask = 
+[2021-04-15T22:39:40.037785 14776] Command line: C:\Users\HP\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe D:\mingw-w64\bin\gcc.exe -o module.need.crawl.crawlCore.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D_NUITKA_WINMAIN_ENTRY_POINT -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -ID:\Python\Python39\include -I. -ID:\Python\Python39\lib\site-packages\nuitka\build\include -ID:\Python\Python39\lib\site-packages\nuitka\build\static_src module.need.crawl.crawlCore.c
+[2021-04-15T22:39:40.037785 14776] Hostname: DESKTOP-7E90VAO
+[2021-04-15T22:39:40.037785 4112 ] === CCACHE 3.7.12 STARTED =========================================
+[2021-04-15T22:39:40.037785 1400 ] Source file: module.__main__.c
+[2021-04-15T22:39:40.037785 9912 ] Source file: module.need.UI.c
+[2021-04-15T22:39:40.037785 15600] Source file: __constants.c
+[2021-04-15T22:39:40.037785 9912 ] Object file: module.need.UI.o
+
+[2021-04-15T22:39:40.037785 15600] Object file: __constants.o
+[2021-04-15T22:39:40.038785 14776] Source file: module.need.crawl.crawlCore.c
+[2021-04-15T22:39:40.038785 14776] Object file: module.need.crawl.crawlCore.o
+[2021-04-15T22:39:40.038785 4876 ] === CCACHE 3.7.12 STARTED =========================================
+t lookup
+[2021-04-15T22:39:40.038785 15600] Trying direct lookup
+[2021-04-15T22:39:40.037785 4112 ] Config: (default) base_dir = 
+[2021-04-15T22:39:40.037785 4112 ] Config: (environment) cache_dir = C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-04-15T22:39:40.037785 4112 ] Config: (default) cache_dir_levels = 2
+[2021-04-15T22:39:40.037785 4112 ] Config: (default) compiler = 
+[2021-04-15T22:39:40.037785 4112 ] Config: (default) compiler_check = mtime
+[2021-04-15T22:39:40.037785 4112 ] Config: (default) compression = false
+[2021-04-15T22:39:40.037785 4112 ] Config: (default) compression_level = 6
+[2021-04-15T22:39:40.037785 4112 ] Config: (default) cpp_extension = 
+[2021-04-15T22:39:40.037785 4112 ] Config: (default) debug = false
+[2021-04-15T22:39:40.037785 4112 ] Config: (default) depend_mode = false
+[2021-04-15T22:39:40.037785 4112 ] Config: (default) direct_mode = true
+[2021-04-15T22:39:40.037785 4112 ] Config: (default) disable = false
+[2021-04-15T22:39:40.037785 4112 ] Config: (default) extra_files_to_hash = 
+[2021-04-15T22:39:40.037785 4112 ] Config: (default) hard_link = false
+[2021-04-15T22:39:40.037785 4112 ] Config: (default) hash_dir = true
+[2021-04-15T22:39:40.037785 4112 ] Config: (default) ignore_headers_in_manifest = 
+[2021-04-15T22:39:40.037785 4112 ] Config: (default) keep_comments_cpp = false
+[2021-04-15T22:39:40.037785 4112 ] Config: (default) limit_multiple = 0.8
+[2021-04-15T22:39:40.037785 4112 ] Config: (environment) log_file = E:\code\Python\Searcher\main.build\ccache-1028.txt
+[2021-04-15T22:39:40.037785 4112 ] Config: (default) max_files = 0
+[2021-04-15T22:39:40.037785 4112 ] Config: (C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-04-15T22:39:40.037785 4112 ] Config: (default) path = 
+[2021-04-15T22:39:40.037785 4112 ] Config: (default) pch_external_checksum = false
+[2021-04-15T22:39:40.037785 4112 ] Config: (default) prefix_command = 
+[2021-04-15T22:39:40.037785 4112 ] Config: (default) prefix_command_cpp = 
+[2021-04-15T22:39:40.037785 4112 ] Config: (default) read_only = false
+[2021-04-15T22:39:40.037785 4112 ] Config: (default) read_only_direct = false
+[2021-04-15T22:39:40.037785 4112 ] Config: (default) recache = false
+[2021-04-15T22:39:40.037785 4112 ] Config: (default) run_second_cpp = true
+[2021-04-15T22:39:40.037785 4112 ] Config: (default) sloppiness = 
+[2021-04-15T22:39:40.037785 4112 ] Config: (default) stats = true
+[2021-04-15T22:39:40.037785 4112 ] Config: (default) temporary_dir = 
+[2021-04-15T22:39:40.037785 4112 ] Config: (default) umask = 
+[2021-04-15T22:39:40.038785 4112 ] Command line: C:\Users\HP\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe D:\mingw-w64\bin\gcc.exe -o __loader.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D_NUITKA_WINMAIN_ENTRY_POINT -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -ID:\Python\Python39\include -I. -ID:\Python\Python39\lib\site-packages\nuitka\build\include -ID:\Python\Python39\lib\site-packages\nuitka\build\static_src __loader.c
+[2021-04-15T22:39:40.038785 4112 ] Hostname: DESKTOP-7E90VAO
+[2021-04-15T22:39:40.038785 6552 ] === CCACHE 3.7.12 STARTED =========================================
+[2021-04-15T22:39:40.038785 4112 ] Working directory: E:\code\Python\Searcher\main.build
+[2021-04-15T22:39:40.038785 15600] Looking for object file hash in C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/9/9b4ec75f877d0d16c0fcbc8fc1af0a-4716.manifest
+[2021-04-15T22:39:40.038785 15796] === CCACHE 3.7.12 STARTED =========================================
+[2021-04-15T22:39:40.038785 4112 ] Source file: __loader.c
+[2021-04-15T22:39:40.038785 4112 ] Object file: __loader.o
+[2021-04-15T22:39:40.038785 14776] Looking for object file hash in C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/a/8af4e902f963ebc917113557b43db0-88492.manifest
+[2021-04-15T22:39:40.038785 4876 ] Config: (default) base_dir = 
+[2021-04-15T22:39:40.038785 4876 ] Config: (environment) cache_dir = C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-04-15T22:39:40.038785 4876 ] Config: (default) cache_dir_levels = 2
+[2021-04-15T22:39:40.038785 4876 ] Config: (default) compiler = 
+[2021-04-15T22:39:40.038785 4876 ] Config: (default) compiler_check = mtime
+[2021-04-15T22:39:40.038785 4876 ] Config: (default) compression = false
+[2021-04-15T22:39:40.038785 4876 ] Config: (default) compression_level = 6
+[2021-04-15T22:39:40.038785 4876 ] Config: (default) cpp_extension = 
+[2021-04-15T22:39:40.038785 4876 ] Config: (default) debug = false
+[2021-04-15T22:39:40.038785 4876 ] Config: (default) depend_mode = false
+[2021-04-15T22:39:40.038785 4876 ] Config: (default) direct_mode = true
+[2021-04-15T22:39:40.038785 4876 ] Config: (default) disable = false
+[2021-04-15T22:39:40.038785 4876 ] Config: (default) extra_files_to_hash = 
+[2021-04-15T22:39:40.038785 4876 ] Config: (default) hard_link = false
+[2021-04-15T22:39:40.038785 4876 ] Config: (default) hash_dir = true
+[2021-04-15T22:39:40.038785 4876 ] Config: (default) ignore_headers_in_manifest = 
+[2021-04-15T22:39:40.038785 4876 ] Config: (default) keep_comments_cpp = false
+[2021-04-15T22:39:40.038785 4876 ] Config: (default) limit_multiple = 0.8
+[2021-04-15T22:39:40.038785 4876 ] Config: (environment) log_file = E:\code\Python\Searcher\main.build\ccache-1028.txt
+[2021-04-15T22:39:40.038785 4876 ] Config: (default) max_files = 0
+[2021-04-15T22:39:40.038785 4876 ] Config: (C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-04-15T22:39:40.038785 4876 ] Config: (default) path = 
+[2021-04-15T22:39:40.038785 4876 ] Config: (default) pch_external_checksum = false
+[2021-04-15T22:39:40.038785 4876 ] Config: (default) prefix_command = 
+[2021-04-15T22:39:40.038785 4876 ] Config: (default) prefix_command_cpp = 
+[2021-04-15T22:39:40.038785 4876 ] Config: (default) read_only = false
+[2021-04-15T22:39:40.038785 4876 ] Config: (default) read_only_direct = false
+[2021-04-15T22:39:40.038785 4876 ] Config: (default) recache = false
+[2021-04-15T22:39:40.038785 4876 ] Config: (default) run_second_cpp = true
+[2021-04-15T22:39:40.038785 4876 ] Config: (default) sloppiness = 
+[2021-04-15T22:39:40.038785 4876 ] Config: (default) stats = true
+[2021-04-15T22:39:40.038785 4876 ] Config: (default) temporary_dir = 
+[2021-04-15T22:39:40.038785 4876 ] Config: (default) umask = 
+[2021-04-15T22:39:40.038785 4876 ] Command line: C:\Users\HP\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe D:\mingw-w64\bin\gcc.exe -o module.need.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D_NUITKA_WINMAIN_ENTRY_POINT -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -ID:\Python\Python39\include -I. -ID:\Python\Python39\lib\site-packages\nuitka\build\include -ID:\Python\Python39\lib\site-packages\nuitka\build\static_src module.need.c
+[2021-04-15T22:39:40.038785 4876 ] Hostname: DESKTOP-7E90VAO
+[2021-04-15T22:39:40.039785 4876 ] Working directory: E:\code\Python\Searcher\main.build
+[2021-04-15T22:39:40.038785 6552 ] Config: (default) base_dir = 
+[2021-04-15T22:39:40.038785 6552 ] Config: (environment) cache_dir = C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-04-15T22:39:40.038785 6552 ] Config: (default) cache_dir_levels = 2
+[2021-04-15T22:39:40.038785 6552 ] Config: (default) compiler = 
+[2021-04-15T22:39:40.038785 6552 ] Config: (default) compiler_check = mtime
+[2021-04-15T22:39:40.038785 6552 ] Config: (default) compression = false
+[2021-04-15T22:39:40.038785 6552 ] Config: (default) compression_level = 6
+[2021-04-15T22:39:40.038785 6552 ] Config: (default) cpp_extension = 
+[2021-04-15T22:39:40.038785 6552 ] Config: (default) debug = false
+[2021-04-15T22:39:40.038785 6552 ] Config: (default) depend_mode = false
+[2021-04-15T22:39:40.038785 6552 ] Config: (default) direct_mode = true
+[2021-04-15T22:39:40.038785 6552 ] Config: (default) disable = false
+[2021-04-15T22:39:40.038785 6552 ] Config: (default) extra_files_to_hash = 
+[2021-04-15T22:39:40.038785 6552 ] Config: (default) hard_link = false
+[2021-04-15T22:39:40.038785 6552 ] Config: (default) hash_dir = true
+[2021-04-15T22:39:40.038785 6552 ] Config: (default) ignore_headers_in_manifest = 
+[2021-04-15T22:39:40.038785 6552 ] Config: (default) keep_comments_cpp = false
+[2021-04-15T22:39:40.038785 6552 ] Config: (default) limit_multiple = 0.8
+[2021-04-15T22:39:40.038785 6552 ] Config: (environment) log_file = E:\code\Python\Searcher\main.build\ccache-1028.txt
+[2021-04-15T22:39:40.038785 6552 ] Config: (default) max_files = 0
+[2021-04-15T22:39:40.038785 6552 ] Config: (C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-04-15T22:39:40.038785 6552 ] Config: (default) path = 
+[2021-04-15T22:39:40.038785 6552 ] Config: (default) pch_external_checksum = false
+[2021-04-15T22:39:40.038785 6552 ] Config: (default) prefix_command = 
+[2021-04-15T22:39:40.038785 6552 ] Config: (default) prefix_command_cpp = 
+[2021-04-15T22:39:40.038785 6552 ] Config: (default) read_only = false
+[2021-04-15T22:39:40.038785 6552 ] Config: (default) read_only_direct = false
+[2021-04-15T22:39:40.038785 6552 ] Config: (default) recache = false
+[2021-04-15T22:39:40.038785 6552 ] Config: (default) run_second_cpp = true
+[2021-04-15T22:39:40.038785 6552 ] Config: (default) sloppiness = 
+[2021-04-15T22:39:40.038785 6552 ] Config: (default) stats = true
+[2021-04-15T22:39:40.038785 6552 ] Config: (default) temporary_dir = 
+[2021-04-15T22:39:40.038785 6552 ] Config: (default) umask = 
+[2021-04-15T22:39:40.039785 6552 ] Command line: C:\Users\HP\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe D:\mingw-w64\bin\gcc.exe -o __helpers.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D_NUITKA_WINMAIN_ENTRY_POINT -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -ID:\Python\Python39\include -I. -ID:\Python\Python39\lib\site-packages\nuitka\build\include -ID:\Python\Python39\lib\site-packages\nuitka\build\static_src __helpers.c
+[2021-04-15T22:39:40.039785 6552 ] Hostname: DESKTOP-7E90VAO
+[2021-04-15T22:39:40.039785 6552 ] Working directory: E:\code\Python\Searcher\main.build
+[2021-04-15T22:39:40.039785 14776] No such manifest file
+[2021-04-15T22:39:40.039785 14776] Did not find object file hash in manifest
+[2021-04-15T22:39:40.039785 4876 ] Source file: module.need.c
+ in C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/7/9f85b98776d66898626f47d2f7671d-3986.manifest
+[2021-04-15T22:39:40.039785 1400 ] Looking for object file hash in C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/6/374bd32922982fed304d7bf5f8ed60-238085.manifest
+[2021-04-15T22:39:40.039785 4876 ] Object file: module.need.o
+[2021-04-15T22:39:40.038785 15796] Config: (default) base_dir = 
+[2021-04-15T22:39:40.038785 15796] Config: (environment) cache_dir = C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-04-15T22:39:40.038785 15796] Config: (default) cache_dir_levels = 2
+[2021-04-15T22:39:40.038785 15796] Config: (default) compiler = 
+[2021-04-15T22:39:40.038785 15796] Config: (default) compiler_check = mtime
+[2021-04-15T22:39:40.038785 15796] Config: (default) compression = false
+[2021-04-15T22:39:40.038785 15796] Config: (default) compression_level = 6
+[2021-04-15T22:39:40.038785 15796] Config: (default) cpp_extension = 
+[2021-04-15T22:39:40.038785 15796] Config: (default) debug = false
+[2021-04-15T22:39:40.038785 15796] Config: (default) depend_mode = false
+[2021-04-15T22:39:40.038785 15796] Config: (default) direct_mode = true
+[2021-04-15T22:39:40.038785 15796] Config: (default) disable = false
+[2021-04-15T22:39:40.038785 15796] Config: (default) extra_files_to_hash = 
+[2021-04-15T22:39:40.038785 15796] Config: (default) hard_link = false
+[2021-04-15T22:39:40.038785 15796] Config: (default) hash_dir = true
+[2021-04-15T22:39:40.038785 15796] Config: (default) ignore_headers_in_manifest = 
+[2021-04-15T22:39:40.038785 15796] Config: (default) keep_comments_cpp = false
+[2021-04-15T22:39:40.038785 15796] Config: (default) limit_multiple = 0.8
+[2021-04-15T22:39:40.038785 15796] Config: (environment) log_file = E:\code\Python\Searcher\main.build\ccache-1028.txt
+[2021-04-15T22:39:40.038785 15796] Config: (default) max_files = 0
+[2021-04-15T22:39:40.038785 15796] Config: (C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-04-15T22:39:40.038785 15796] Config: (default) path = 
+[2021-04-15T22:39:40.038785 15796] Config: (default) pch_external_checksum = false
+[2021-04-15T22:39:40.038785 15796] Config: (default) prefix_command = 
+[2021-04-15T22:39:40.038785 15796] Config: (default) prefix_command_cpp = 
+[2021-04-15T22:39:40.038785 15796] Config: (default) read_only = false
+[2021-04-15T22:39:40.038785 15796] Config: (default) read_only_direct = false
+[2021-04-15T22:39:40.038785 15796] Config: (default) recache = false
+[2021-04-15T22:39:40.038785 15796] Config: (default) run_second_cpp = true
+[2021-04-15T22:39:40.038785 15796] Config: (default) sloppiness = 
+[2021-04-15T22:39:40.038785 15796] Config: (default) stats = true
+[2021-04-15T22:39:40.038785 15796] Config: (default) temporary_dir = 
+[2021-04-15T22:39:40.038785 15796] Config: (default) umask = 
+[2021-04-15T22:39:40.039785 15796] Command line: C:\Users\HP\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe D:\mingw-w64\bin\gcc.exe -o module.need.crawl.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D_NUITKA_WINMAIN_ENTRY_POINT -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -ID:\Python\Python39\include -I. -ID:\Python\Python39\lib\site-packages\nuitka\build\include -ID:\Python\Python39\lib\site-packages\nuitka\build\static_src module.need.crawl.c
+[2021-04-15T22:39:40.039785 9912 ] Looking for object file hash in C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/2/c4d74ca2121b92e886a9e29a7e42ec-281608.manifest
+[2021-04-15T22:39:40.039785 6552 ] Source file: __helpers.c
+[2021-04-15T22:39:40.039785 6552 ] Object file: __helpers.o
+\Python\Searcher\main.build
+[2021-04-15T22:39:40.039785 4876 ] Trying direct lookup
+[2021-04-15T22:39:40.039785 6552 ] Trying direct lookup
+[2021-04-15T22:39:40.039785 15796] Source file: module.need.crawl.c
+[2021-04-15T22:39:40.039785 15796] Object file: module.need.crawl.o
+[2021-04-15T22:39:40.039785 4876 ] Looking for object file hash in C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/5/3e0b89571e0e25af697f064e74109c-17733.manifest
+[2021-04-15T22:39:40.039785 15796] Trying direct lookup
+[2021-04-15T22:39:40.040794 6552 ] Looking for object file hash in C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/e/b172f25480e7ffd55fb3d05676ac3e-78318.manifest
+[2021-04-15T22:39:40.040794 14776] Running preprocessor
+[2021-04-15T22:39:40.040794 15796] Looking for object file hash in C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/f/7ca5ca7c1932c211858f7425b65a46-17985.manifest
+[2021-04-15T22:39:40.040794 4112 ] Running preprocessor
+[2021-04-15T22:39:40.040794 15796] No such manifest file
+[2021-04-15T22:39:40.040794 15796] Did not find object file hash in manifest
+[2021-04-15T22:39:40.041784 15796] Running preprocessor
+[2021-04-15T22:39:40.402676 1400 ] Got object file hash from manifest
+[2021-04-15T22:39:40.411084 9912 ] Got object file hash from manifest
+[2021-04-15T22:39:40.413132 15600] Got object file hash from manifest
+[2021-04-15T22:39:40.413132 6552 ] Got object file hash from manifest
+[2021-04-15T22:39:40.413132 4876 ] Got object file hash from manifest
+[2021-04-15T22:39:40.416265 15600] Copying C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/b/693d614ef77b650eb829a168625a32-564942.o to __constants.o (uncompressed)
+[2021-04-15T22:39:40.431901 15600] Created from cache: C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/b/693d614ef77b650eb829a168625a32-564942.o -> __constants.o
+[2021-04-15T22:39:40.431901 6552 ] Copying C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/9/d635e646090b7e9b75c43025158f2c-612796.o to __helpers.o (uncompressed)
+[2021-04-15T22:39:40.431901 9912 ] Copying C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/3/142ff0338423ef42e5efed973c2d66-842369.o to module.need.UI.o (uncompressed)
+[2021-04-15T22:39:40.431901 15600] Succeeded getting cached result
+[2021-04-15T22:39:40.431901 15600] Result: cache hit (direct)
+[2021-04-15T22:39:40.431901 1400 ] Copying C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/5/8/0568f14b665bf32ae3fdd08022cbc9-785243.o to module.__main__.o (uncompressed)
+[2021-04-15T22:39:40.431901 4876 ] Copying C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/4/533087f8e3e61547d2bb23e6ebe115-569856.o to module.need.o (uncompressed)
+[2021-04-15T22:39:40.431901 6552 ] Created from cache: C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/9/d635e646090b7e9b75c43025158f2c-612796.o -> __helpers.o
+[2021-04-15T22:39:40.431901 15600] Acquired lock C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/stats.lock
+[2021-04-15T22:39:40.431901 6552 ] Succeeded getting cached result
+[2021-04-15T22:39:40.431901 6552 ] Result: cache hit (direct)
+[2021-04-15T22:39:40.431901 4876 ] Created from cache: C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/4/533087f8e3e61547d2bb23e6ebe115-569856.o -> module.need.o
+[2021-04-15T22:39:40.431901 9912 ] Created from cache: C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/3/142ff0338423ef42e5efed973c2d66-842369.o -> module.need.UI.o
+[2021-04-15T22:39:40.431901 6552 ] Acquired lock C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/stats.lock
+[2021-04-15T22:39:40.431901 1400 ] Created from cache: C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/5/8/0568f14b665bf32ae3fdd08022cbc9-785243.o -> module.__main__.o
+[2021-04-15T22:39:40.431901 4876 ] Succeeded getting cached result
+[2021-04-15T22:39:40.431901 4876 ] Result: cache hit (direct)
+[2021-04-15T22:39:40.431901 9912 ] Succeeded getting cached result
+[2021-04-15T22:39:40.431901 9912 ] Result: cache hit (direct)
+[2021-04-15T22:39:40.431901 1400 ] Succeeded getting cached result
+[2021-04-15T22:39:40.431901 1400 ] Result: cache hit (direct)
+[2021-04-15T22:39:40.431901 4876 ] Acquired lock C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/stats.lock
+[2021-04-15T22:39:40.431901 1400 ] Acquired lock C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/5/stats.lock
+[2021-04-15T22:39:40.431901 9912 ] lockfile_acquire: CreateFile C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/stats.lock: error code 32
+[2021-04-15T22:39:40.431901 9912 ] lockfile_acquire: failed to acquire C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/stats.lock; sleeping 1000 microseconds
+[2021-04-15T22:39:40.431901 15600] Releasing lock C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/stats.lock
+[2021-04-15T22:39:40.431901 6552 ] Releasing lock C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/stats.lock
+[2021-04-15T22:39:40.431901 1400 ] Releasing lock C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/5/stats.lock
+[2021-04-15T22:39:40.431901 4876 ] Releasing lock C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/stats.lock
+[2021-04-15T22:39:40.447553 9912 ] Acquired lock C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/stats.lock
+[2021-04-15T22:39:40.447553 9912 ] Releasing lock C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/stats.lock
+[2021-04-15T22:39:40.463153 4320 ] === CCACHE 3.7.12 STARTED =========================================
+[2021-04-15T22:39:40.463153 4320 ] Config: (default) base_dir = 
+[2021-04-15T22:39:40.463153 4320 ] Config: (environment) cache_dir = C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-04-15T22:39:40.463153 4320 ] Config: (default) cache_dir_levels = 2
+[2021-04-15T22:39:40.463153 4320 ] Config: (default) compiler = 
+[2021-04-15T22:39:40.463153 4320 ] Config: (default) compiler_check = mtime
+[2021-04-15T22:39:40.463153 4320 ] Config: (default) compression = false
+[2021-04-15T22:39:40.463153 4320 ] Config: (default) compression_level = 6
+[2021-04-15T22:39:40.463153 4320 ] Config: (default) cpp_extension = 
+[2021-04-15T22:39:40.463153 4320 ] Config: (default) debug = false
+[2021-04-15T22:39:40.463153 4320 ] Config: (default) depend_mode = false
+[2021-04-15T22:39:40.463153 4320 ] Config: (default) direct_mode = true
+[2021-04-15T22:39:40.463153 4320 ] Config: (default) disable = false
+[2021-04-15T22:39:40.463153 4320 ] Config: (default) extra_files_to_hash = 
+[2021-04-15T22:39:40.463153 4320 ] Config: (default) hard_link = false
+[2021-04-15T22:39:40.463153 4320 ] Config: (default) hash_dir = true
+[2021-04-15T22:39:40.463153 4320 ] Config: (default) ignore_headers_in_manifest = 
+[2021-04-15T22:39:40.463153 4320 ] Config: (default) keep_comments_cpp = false
+[2021-04-15T22:39:40.463153 4320 ] Config: (default) limit_multiple = 0.8
+[2021-04-15T22:39:40.463153 4320 ] Config: (environment) log_file = E:\code\Python\Searcher\main.build\ccache-1028.txt
+[2021-04-15T22:39:40.463153 4320 ] Config: (default) max_files = 0
+[2021-04-15T22:39:40.463153 4320 ] Config: (C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-04-15T22:39:40.463153 4320 ] Config: (default) path = 
+[2021-04-15T22:39:40.463153 4320 ] Config: (default) pch_external_checksum = false
+[2021-04-15T22:39:40.463153 4320 ] Config: (default) prefix_command = 
+[2021-04-15T22:39:40.463153 4320 ] Config: (default) prefix_command_cpp = 
+[2021-04-15T22:39:40.463153 4320 ] Config: (default) read_only = false
+[2021-04-15T22:39:40.463153 4320 ] Config: (default) read_only_direct = false
+[2021-04-15T22:39:40.463153 4320 ] Config: (default) recache = false
+[2021-04-15T22:39:40.463153 4320 ] Config: (default) run_second_cpp = true
+[2021-04-15T22:39:40.463153 4320 ] Config: (default) sloppiness = 
+[2021-04-15T22:39:40.463153 4320 ] Config: (default) stats = true
+[2021-04-15T22:39:40.463153 4320 ] Config: (default) temporary_dir = 
+[2021-04-15T22:39:40.463153 4320 ] Config: (default) umask = 
+[2021-04-15T22:39:40.463153 4320 ] Command line: C:\Users\HP\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe D:\mingw-w64\bin\gcc.exe -o module.need.crawl.crawlException.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D_NUITKA_WINMAIN_ENTRY_POINT -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -ID:\Python\Python39\include -I. -ID:\Python\Python39\lib\site-packages\nuitka\build\include -ID:\Python\Python39\lib\site-packages\nuitka\build\static_src module.need.crawl.crawlException.c
+[2021-04-15T22:39:40.463153 4320 ] Hostname: DESKTOP-7E90VAO
+[2021-04-15T22:39:40.463153 4320 ] Working directory: E:\code\Python\Searcher\main.build
+[2021-04-15T22:39:40.463153 4320 ] Source file: module.need.crawl.crawlException.c
+[2021-04-15T22:39:40.463153 4320 ] Object file: module.need.crawl.crawlException.o
+[2021-04-15T22:39:40.463153 4320 ] Trying direct lookup
+[2021-04-15T22:39:40.463153 4320 ] Looking for object file hash in C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/f/c312d376507341f54910574c28e1f7-119233.manifest
+[2021-04-15T22:39:40.463153 8180 ] === CCACHE 3.7.12 STARTED =========================================
+[2021-04-15T22:39:40.463153 8180 ] Config: (default) base_dir = 
+[2021-04-15T22:39:40.463153 8180 ] Config: (environment) cache_dir = C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-04-15T22:39:40.463153 8180 ] Config: (default) cache_dir_levels = 2
+[2021-04-15T22:39:40.463153 8180 ] Config: (default) compiler = 
+[2021-04-15T22:39:40.463153 8180 ] Config: (default) compiler_check = mtime
+[2021-04-15T22:39:40.463153 8180 ] Config: (default) compression = false
+[2021-04-15T22:39:40.463153 8180 ] Config: (default) compression_level = 6
+[2021-04-15T22:39:40.463153 8180 ] Config: (default) cpp_extension = 
+[2021-04-15T22:39:40.463153 8180 ] Config: (default) debug = false
+[2021-04-15T22:39:40.463153 8180 ] Config: (default) depend_mode = false
+[2021-04-15T22:39:40.463153 8180 ] Config: (default) direct_mode = true
+[2021-04-15T22:39:40.463153 8180 ] Config: (default) disable = false
+[2021-04-15T22:39:40.463153 8180 ] Config: (default) extra_files_to_hash = 
+[2021-04-15T22:39:40.463153 8180 ] Config: (default) hard_link = false
+[2021-04-15T22:39:40.463153 8180 ] Config: (default) hash_dir = true
+[2021-04-15T22:39:40.463153 8180 ] Config: (default) ignore_headers_in_manifest = 
+[2021-04-15T22:39:40.463153 8180 ] Config: (default) keep_comments_cpp = false
+[2021-04-15T22:39:40.463153 8180 ] Config: (default) limit_multiple = 0.8
+[2021-04-15T22:39:40.463153 8180 ] Config: (environment) log_file = E:\code\Python\Searcher\main.build\ccache-1028.txt
+[2021-04-15T22:39:40.463153 8180 ] Config: (default) max_files = 0
+[2021-04-15T22:39:40.463153 8180 ] Config: (C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-04-15T22:39:40.463153 8180 ] Config: (default) path = 
+[2021-04-15T22:39:40.463153 8180 ] Config: (default) pch_external_checksum = false
+[2021-04-15T22:39:40.463153 8180 ] Config: (default) prefix_command = 
+[2021-04-15T22:39:40.463153 8180 ] Config: (default) prefix_command_cpp = 
+[2021-04-15T22:39:40.463153 8180 ] Config: (default) read_only = false
+[2021-04-15T22:39:40.463153 8180 ] Config: (default) read_only_direct = false
+[2021-04-15T22:39:40.463153 8180 ] Config: (default) recache = false
+[2021-04-15T22:39:40.463153 8180 ] Config: (default) run_second_cpp = true
+[2021-04-15T22:39:40.463153 8180 ] Config: (default) sloppiness = 
+[2021-04-15T22:39:40.463153 8180 ] Config: (default) stats = true
+[2021-04-15T22:39:40.463153 8180 ] Config: (default) temporary_dir = 
+[2021-04-15T22:39:40.463153 8180 ] Config: (default) umask = 
+[2021-04-15T22:39:40.463153 8180 ] Command line: C:\Users\HP\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe D:\mingw-w64\bin\gcc.exe -o module.need.crawl.init.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D_NUITKA_WINMAIN_ENTRY_POINT -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -ID:\Python\Python39\include -I. -ID:\Python\Python39\lib\site-packages\nuitka\build\include -ID:\Python\Python39\lib\site-packages\nuitka\build\static_src module.need.crawl.init.c
+[2021-04-15T22:39:40.463153 8180 ] Hostname: DESKTOP-7E90VAO
+[2021-04-15T22:39:40.463153 8180 ] Working directory: E:\code\Python\Searcher\main.build
+[2021-04-15T22:39:40.463153 8180 ] Source file: module.need.crawl.init.c
+[2021-04-15T22:39:40.463153 8180 ] Object file: module.need.crawl.init.o
+[2021-04-15T22:39:40.463153 8180 ] Trying direct lookup
+[2021-04-15T22:39:40.463153 8180 ] Looking for object file hash in C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/d/1912e0d37b687737265cc49dc6ab40-19839.manifest
+[2021-04-15T22:39:40.463153 8180 ] No such manifest file
+[2021-04-15T22:39:40.463153 8180 ] Did not find object file hash in manifest
+[2021-04-15T22:39:40.463153 8180 ] Running preprocessor
+[2021-04-15T22:39:40.494402 9832 ] === CCACHE 3.7.12 STARTED =========================================
+[2021-04-15T22:39:40.494402 9832 ] Config: (default) base_dir = 
+[2021-04-15T22:39:40.494402 9832 ] Config: (environment) cache_dir = C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-04-15T22:39:40.494402 9832 ] Config: (default) cache_dir_levels = 2
+[2021-04-15T22:39:40.494402 9832 ] Config: (default) compiler = 
+[2021-04-15T22:39:40.494402 9832 ] Config: (default) compiler_check = mtime
+[2021-04-15T22:39:40.494402 9832 ] Config: (default) compression = false
+[2021-04-15T22:39:40.494402 9832 ] Config: (default) compression_level = 6
+[2021-04-15T22:39:40.494402 9832 ] Config: (default) cpp_extension = 
+[2021-04-15T22:39:40.494402 9832 ] Config: (default) debug = false
+[2021-04-15T22:39:40.494402 9832 ] Config: (default) depend_mode = false
+[2021-04-15T22:39:40.494402 9832 ] Config: (default) direct_mode = true
+[2021-04-15T22:39:40.494402 9832 ] Config: (default) disable = false
+[2021-04-15T22:39:40.494402 9832 ] Config: (default) extra_files_to_hash = 
+[2021-04-15T22:39:40.494402 9832 ] Config: (default) hard_link = false
+[2021-04-15T22:39:40.494402 9832 ] Config: (default) hash_dir = true
+[2021-04-15T22:39:40.494402 9832 ] Config: (default) ignore_headers_in_manifest = 
+[2021-04-15T22:39:40.494402 9832 ] Config: (default) keep_comments_cpp = false
+[2021-04-15T22:39:40.494402 9832 ] Config: (default) limit_multiple = 0.8
+[2021-04-15T22:39:40.494402 9832 ] Config: (environment) log_file = E:\code\Python\Searcher\main.build\ccache-1028.txt
+[2021-04-15T22:39:40.494402 9832 ] Config: (default) max_files = 0
+[2021-04-15T22:39:40.494402 9832 ] Config: (C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-04-15T22:39:40.494402 9832 ] Config: (default) path = 
+[2021-04-15T22:39:40.494402 9832 ] Config: (default) pch_external_checksum = false
+[2021-04-15T22:39:40.494402 9832 ] Config: (default) prefix_command = 
+[2021-04-15T22:39:40.494402 9832 ] Config: (default) prefix_command_cpp = 
+[2021-04-15T22:39:40.494402 9832 ] Config: (default) read_only = false
+[2021-04-15T22:39:40.494402 9832 ] Config: (default) read_only_direct = false
+[2021-04-15T22:39:40.494402 9832 ] Config: (default) recache = false
+[2021-04-15T22:39:40.494402 9832 ] Config: (default) run_second_cpp = true
+[2021-04-15T22:39:40.494402 9832 ] Config: (default) sloppiness = 
+[2021-04-15T22:39:40.494402 9832 ] Config: (default) stats = true
+[2021-04-15T22:39:40.494402 9832 ] Config: (default) temporary_dir = 
+[2021-04-15T22:39:40.494402 9832 ] Config: (default) umask = 
+[2021-04-15T22:39:40.494402 9832 ] Command line: C:\Users\HP\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe D:\mingw-w64\bin\gcc.exe -o static_src\MainProgram.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D_NUITKA_WINMAIN_ENTRY_POINT -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -ID:\Python\Python39\include -I. -ID:\Python\Python39\lib\site-packages\nuitka\build\include -ID:\Python\Python39\lib\site-packages\nuitka\build\static_src static_src\MainProgram.c
+[2021-04-15T22:39:40.494402 9832 ] Hostname: DESKTOP-7E90VAO
+[2021-04-15T22:39:40.494402 9832 ] Working directory: E:\code\Python\Searcher\main.build
+[2021-04-15T22:39:40.494402 9832 ] Source file: static_src\MainProgram.c
+[2021-04-15T22:39:40.494402 9832 ] Object file: static_src\MainProgram.o
+[2021-04-15T22:39:40.494402 9832 ] Trying direct lookup
+[2021-04-15T22:39:40.494402 9832 ] Looking for object file hash in C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/1/e7c7e5c5127bb94ae46f7b0bebc816-23424.manifest
+[2021-04-15T22:39:40.510032 8968 ] === CCACHE 3.7.12 STARTED =========================================
+[2021-04-15T22:39:40.510032 8968 ] Config: (default) base_dir = 
+[2021-04-15T22:39:40.510032 8968 ] Config: (environment) cache_dir = C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-04-15T22:39:40.510032 8968 ] Config: (default) cache_dir_levels = 2
+[2021-04-15T22:39:40.510032 8968 ] Config: (default) compiler = 
+[2021-04-15T22:39:40.510032 8968 ] Config: (default) compiler_check = mtime
+[2021-04-15T22:39:40.510032 8968 ] Config: (default) compression = false
+[2021-04-15T22:39:40.510032 8968 ] Config: (default) compression_level = 6
+[2021-04-15T22:39:40.510032 8968 ] Config: (default) cpp_extension = 
+[2021-04-15T22:39:40.510032 8968 ] Config: (default) debug = false
+[2021-04-15T22:39:40.510032 8968 ] Config: (default) depend_mode = false
+[2021-04-15T22:39:40.510032 8968 ] Config: (default) direct_mode = true
+[2021-04-15T22:39:40.510032 8968 ] Config: (default) disable = false
+[2021-04-15T22:39:40.510032 8968 ] Config: (default) extra_files_to_hash = 
+[2021-04-15T22:39:40.510032 8968 ] Config: (default) hard_link = false
+[2021-04-15T22:39:40.510032 8968 ] Config: (default) hash_dir = true
+[2021-04-15T22:39:40.510032 8968 ] Config: (default) ignore_headers_in_manifest = 
+[2021-04-15T22:39:40.510032 8968 ] Config: (default) keep_comments_cpp = false
+[2021-04-15T22:39:40.510032 8968 ] Config: (default) limit_multiple = 0.8
+[2021-04-15T22:39:40.510032 8968 ] Config: (environment) log_file = E:\code\Python\Searcher\main.build\ccache-1028.txt
+[2021-04-15T22:39:40.510032 8968 ] Config: (default) max_files = 0
+[2021-04-15T22:39:40.510032 8968 ] Config: (C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-04-15T22:39:40.510032 8968 ] Config: (default) path = 
+[2021-04-15T22:39:40.510032 8968 ] Config: (default) pch_external_checksum = false
+[2021-04-15T22:39:40.510032 8968 ] Config: (default) prefix_command = 
+[2021-04-15T22:39:40.510032 8968 ] Config: (default) prefix_command_cpp = 
+[2021-04-15T22:39:40.510032 8968 ] Config: (default) read_only = false
+[2021-04-15T22:39:40.510032 8968 ] Config: (default) read_only_direct = false
+[2021-04-15T22:39:40.510032 8968 ] Config: (default) recache = false
+[2021-04-15T22:39:40.510032 8968 ] Config: (default) run_second_cpp = true
+[2021-04-15T22:39:40.510032 8968 ] Config: (default) sloppiness = 
+[2021-04-15T22:39:40.510032 8968 ] Config: (default) stats = true
+[2021-04-15T22:39:40.510032 8968 ] Config: (default) temporary_dir = 
+[2021-04-15T22:39:40.510032 8968 ] Config: (default) umask = 
+[2021-04-15T22:39:40.510032 8968 ] Command line: C:\Users\HP\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe D:\mingw-w64\bin\gcc.exe -o static_src\CompiledCellType.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D_NUITKA_WINMAIN_ENTRY_POINT -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -ID:\Python\Python39\include -I. -ID:\Python\Python39\lib\site-packages\nuitka\build\include -ID:\Python\Python39\lib\site-packages\nuitka\build\static_src static_src\CompiledCellType.c
+[2021-04-15T22:39:40.510032 8968 ] Hostname: DESKTOP-7E90VAO
+[2021-04-15T22:39:40.510032 8968 ] Working directory: E:\code\Python\Searcher\main.build
+[2021-04-15T22:39:40.510032 8968 ] Source file: static_src\CompiledCellType.c
+[2021-04-15T22:39:40.510032 8968 ] Object file: static_src\CompiledCellType.o
+[2021-04-15T22:39:40.510032 8968 ] Trying direct lookup
+[2021-04-15T22:39:40.510032 8968 ] Looking for object file hash in C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/2/4213e6c21483b074b0ad0a7f771b61-7984.manifest
+[2021-04-15T22:39:40.572525 4320 ] Got object file hash from manifest
+[2021-04-15T22:39:40.572525 4320 ] Copying C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/e/e1905f8ba55240c027727b1fb97684-663860.o to module.need.crawl.crawlException.o (uncompressed)
+[2021-04-15T22:39:40.572525 4320 ] Created from cache: C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/e/e1905f8ba55240c027727b1fb97684-663860.o -> module.need.crawl.crawlException.o
+[2021-04-15T22:39:40.572525 4320 ] Succeeded getting cached result
+[2021-04-15T22:39:40.572525 4320 ] Result: cache hit (direct)
+[2021-04-15T22:39:40.572525 4320 ] Acquired lock C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/stats.lock
+[2021-04-15T22:39:40.572525 4320 ] Releasing lock C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/stats.lock
+[2021-04-15T22:39:40.603750 4112 ] Got object file hash from preprocessor
+[2021-04-15T22:39:40.604749 4112 ] Object file C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/a/d47223fbe263d5b044449fc285f7df-390943.o not in cache
+[2021-04-15T22:39:40.604749 4112 ] Running real compiler
+[2021-04-15T22:39:40.604749 8968 ] Got object file hash from manifest
+[2021-04-15T22:39:40.605750 8968 ] Copying C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/3/7f45c7c90a63e68828bcdf876d7271-568620.o to static_src\CompiledCellType.o (uncompressed)
+[2021-04-15T22:39:40.605750 8968 ] Created from cache: C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/3/7f45c7c90a63e68828bcdf876d7271-568620.o -> static_src\CompiledCellType.o
+[2021-04-15T22:39:40.606750 8968 ] Succeeded getting cached result
+[2021-04-15T22:39:40.606750 8968 ] Result: cache hit (direct)
+[2021-04-15T22:39:40.606750 8968 ] Acquired lock C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/stats.lock
+[2021-04-15T22:39:40.608750 8968 ] Releasing lock C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/stats.lock
+[2021-04-15T22:39:40.616751 10304] === CCACHE 3.7.12 STARTED =========================================
+[2021-04-15T22:39:40.616751 10304] Config: (default) base_dir = 
+[2021-04-15T22:39:40.616751 10304] Config: (environment) cache_dir = C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-04-15T22:39:40.616751 10304] Config: (default) cache_dir_levels = 2
+[2021-04-15T22:39:40.616751 10304] Config: (default) compiler = 
+[2021-04-15T22:39:40.616751 10304] Config: (default) compiler_check = mtime
+[2021-04-15T22:39:40.616751 10304] Config: (default) compression = false
+[2021-04-15T22:39:40.616751 10304] Config: (default) compression_level = 6
+[2021-04-15T22:39:40.616751 10304] Config: (default) cpp_extension = 
+[2021-04-15T22:39:40.616751 10304] Config: (default) debug = false
+[2021-04-15T22:39:40.616751 10304] Config: (default) depend_mode = false
+[2021-04-15T22:39:40.616751 10304] Config: (default) direct_mode = true
+[2021-04-15T22:39:40.616751 10304] Config: (default) disable = false
+[2021-04-15T22:39:40.616751 10304] Config: (default) extra_files_to_hash = 
+[2021-04-15T22:39:40.616751 10304] Config: (default) hard_link = false
+[2021-04-15T22:39:40.616751 10304] Config: (default) hash_dir = true
+[2021-04-15T22:39:40.616751 10304] Config: (default) ignore_headers_in_manifest = 
+[2021-04-15T22:39:40.616751 10304] Config: (default) keep_comments_cpp = false
+[2021-04-15T22:39:40.616751 10304] Config: (default) limit_multiple = 0.8
+[2021-04-15T22:39:40.616751 10304] Config: (environment) log_file = E:\code\Python\Searcher\main.build\ccache-1028.txt
+[2021-04-15T22:39:40.616751 10304] Config: (default) max_files = 0
+[2021-04-15T22:39:40.616751 10304] Config: (C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-04-15T22:39:40.616751 10304] Config: (default) path = 
+[2021-04-15T22:39:40.616751 10304] Config: (default) pch_external_checksum = false
+[2021-04-15T22:39:40.616751 10304] Config: (default) prefix_command = 
+[2021-04-15T22:39:40.616751 10304] Config: (default) prefix_command_cpp = 
+[2021-04-15T22:39:40.616751 10304] Config: (default) read_only = false
+[2021-04-15T22:39:40.616751 10304] Config: (default) read_only_direct = false
+[2021-04-15T22:39:40.616751 10304] Config: (default) recache = false
+[2021-04-15T22:39:40.616751 10304] Config: (default) run_second_cpp = true
+[2021-04-15T22:39:40.616751 10304] Config: (default) sloppiness = 
+[2021-04-15T22:39:40.616751 10304] Config: (default) stats = true
+[2021-04-15T22:39:40.616751 10304] Config: (default) temporary_dir = 
+[2021-04-15T22:39:40.616751 10304] Config: (default) umask = 
+[2021-04-15T22:39:40.617750 10304] Command line: C:\Users\HP\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe D:\mingw-w64\bin\gcc.exe -o static_src\CompiledFunctionType.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D_NUITKA_WINMAIN_ENTRY_POINT -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -ID:\Python\Python39\include -I. -ID:\Python\Python39\lib\site-packages\nuitka\build\include -ID:\Python\Python39\lib\site-packages\nuitka\build\static_src static_src\CompiledFunctionType.c
+[2021-04-15T22:39:40.617750 10304] Hostname: DESKTOP-7E90VAO
+[2021-04-15T22:39:40.617750 10304] Working directory: E:\code\Python\Searcher\main.build
+[2021-04-15T22:39:40.617750 10304] Source file: static_src\CompiledFunctionType.c
+[2021-04-15T22:39:40.617750 10304] Object file: static_src\CompiledFunctionType.o
+[2021-04-15T22:39:40.617750 10304] Trying direct lookup
+[2021-04-15T22:39:40.618751 10304] Looking for object file hash in C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/8/db093a267b916cf33612b4dd1a558f-78965.manifest
+[2021-04-15T22:39:40.696018 15668] === CCACHE 3.7.12 STARTED =========================================
+[2021-04-15T22:39:40.696018 15668] Config: (default) base_dir = 
+[2021-04-15T22:39:40.696018 15668] Config: (environment) cache_dir = C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-04-15T22:39:40.696018 15668] Config: (default) cache_dir_levels = 2
+[2021-04-15T22:39:40.696018 15668] Config: (default) compiler = 
+[2021-04-15T22:39:40.696018 15668] Config: (default) compiler_check = mtime
+[2021-04-15T22:39:40.696018 15668] Config: (default) compression = false
+[2021-04-15T22:39:40.696018 15668] Config: (default) compression_level = 6
+[2021-04-15T22:39:40.696018 15668] Config: (default) cpp_extension = 
+[2021-04-15T22:39:40.696018 15668] Config: (default) debug = false
+[2021-04-15T22:39:40.696018 15668] Config: (default) depend_mode = false
+[2021-04-15T22:39:40.696018 15668] Config: (default) direct_mode = true
+[2021-04-15T22:39:40.696018 15668] Config: (default) disable = false
+[2021-04-15T22:39:40.696018 15668] Config: (default) extra_files_to_hash = 
+[2021-04-15T22:39:40.696018 15668] Config: (default) hard_link = false
+[2021-04-15T22:39:40.696018 15668] Config: (default) hash_dir = true
+[2021-04-15T22:39:40.696018 15668] Config: (default) ignore_headers_in_manifest = 
+[2021-04-15T22:39:40.696018 15668] Config: (default) keep_comments_cpp = false
+[2021-04-15T22:39:40.696018 15668] Config: (default) limit_multiple = 0.8
+[2021-04-15T22:39:40.696018 15668] Config: (environment) log_file = E:\code\Python\Searcher\main.build\ccache-1028.txt
+[2021-04-15T22:39:40.696018 15668] Config: (default) max_files = 0
+[2021-04-15T22:39:40.696018 15668] Config: (C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-04-15T22:39:40.696018 15668] Config: (default) path = 
+[2021-04-15T22:39:40.696018 15668] Config: (default) pch_external_checksum = false
+[2021-04-15T22:39:40.696018 15668] Config: (default) prefix_command = 
+[2021-04-15T22:39:40.696018 15668] Config: (default) prefix_command_cpp = 
+[2021-04-15T22:39:40.696018 15668] Config: (default) read_only = false
+[2021-04-15T22:39:40.696018 15668] Config: (default) read_only_direct = false
+[2021-04-15T22:39:40.696018 15668] Config: (default) recache = false
+[2021-04-15T22:39:40.696018 15668] Config: (default) run_second_cpp = true
+[2021-04-15T22:39:40.696018 15668] Config: (default) sloppiness = 
+[2021-04-15T22:39:40.696018 15668] Config: (default) stats = true
+[2021-04-15T22:39:40.696018 15668] Config: (default) temporary_dir = 
+[2021-04-15T22:39:40.696018 15668] Config: (default) umask = 
+[2021-04-15T22:39:40.696018 15668] Command line: C:\Users\HP\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe D:\mingw-w64\bin\gcc.exe -o static_src\CompiledGeneratorType.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D_NUITKA_WINMAIN_ENTRY_POINT -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -ID:\Python\Python39\include -I. -ID:\Python\Python39\lib\site-packages\nuitka\build\include -ID:\Python\Python39\lib\site-packages\nuitka\build\static_src static_src\CompiledGeneratorType.c
+[2021-04-15T22:39:40.696018 15668] Hostname: DESKTOP-7E90VAO
+[2021-04-15T22:39:40.696018 15668] Working directory: E:\code\Python\Searcher\main.build
+[2021-04-15T22:39:40.697019 15668] Source file: static_src\CompiledGeneratorType.c
+[2021-04-15T22:39:40.697019 15668] Object file: static_src\CompiledGeneratorType.o
+[2021-04-15T22:39:40.697019 15668] Trying direct lookup
+[2021-04-15T22:39:40.697019 15668] Looking for object file hash in C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/0/3f8b3aca342a7ea873df74b07da105-57414.manifest
+[2021-04-15T22:39:40.753722 10304] Got object file hash from manifest
+[2021-04-15T22:39:40.753722 10304] Copying C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/5/14974e6428a9d5495b835443248d89-648055.o to static_src\CompiledFunctionType.o (uncompressed)
+[2021-04-15T22:39:40.753722 10304] Created from cache: C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/5/14974e6428a9d5495b835443248d89-648055.o -> static_src\CompiledFunctionType.o
+[2021-04-15T22:39:40.753722 10304] Succeeded getting cached result
+[2021-04-15T22:39:40.753722 10304] Result: cache hit (direct)
+[2021-04-15T22:39:40.800598 15668] Got object file hash from manifest
+[2021-04-15T22:39:40.800598 15668] Copying C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/c/781dcd4df0770e1653c69e96e93355-741632.o to static_src\CompiledGeneratorType.o (uncompressed)
+[2021-04-15T22:39:40.800598 15668] Created from cache: C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/c/781dcd4df0770e1653c69e96e93355-741632.o -> static_src\CompiledGeneratorType.o
+[2021-04-15T22:39:40.800598 15668] Succeeded getting cached result
+[2021-04-15T22:39:40.800598 15668] Result: cache hit (direct)
+[2021-04-15T22:39:40.863103 10304] Acquired lock C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/stats.lock
+[2021-04-15T22:39:40.863103 15668] Acquired lock C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/stats.lock
+[2021-04-15T22:39:40.863103 14776] Got object file hash from preprocessor
+[2021-04-15T22:39:40.863103 14776] Object file C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/5/7/77dac25c3198ea38d85c1e515f0857-635118.o not in cache
+[2021-04-15T22:39:40.863103 15796] Got object file hash from preprocessor
+[2021-04-15T22:39:40.863103 8180 ] Got object file hash from preprocessor
+[2021-04-15T22:39:40.863103 15796] Object file C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/8/9b56f332226570f824513cf0db37f2-570060.o not in cache
+[2021-04-15T22:39:40.863103 15796] Running real compiler
+[2021-04-15T22:39:40.863103 8180 ] Object file C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/f/b7b2f352e952f8bc5580e47a63c822-571476.o not in cache
+[2021-04-15T22:39:40.863103 8180 ] Running real compiler
+[2021-04-15T22:39:40.863103 10304] Releasing lock C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/stats.lock
+[2021-04-15T22:39:40.863103 15668] Releasing lock C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/stats.lock
+[2021-04-15T22:39:40.925602 4112 ] Unlink C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/a/d47223fbe263d5b044449fc285f7df-390943.o.tmp.stdout.DESKTOP-7E90VAO.4112.1QBI6D
+[2021-04-15T22:39:40.925602 4112 ] Unlink C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/a/d47223fbe263d5b044449fc285f7df-390943.o.tmp.stderr.DESKTOP-7E90VAO.4112.SS92c3
+[2021-04-15T22:39:40.941231 4112 ] Copying __loader.o to C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/a/d47223fbe263d5b044449fc285f7df-390943.o via C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/a/d47223fbe263d5b044449fc285f7df-390943.o.DESKTOP-7E90VAO.4112.1Apgjk (uncompressed)
+[2021-04-15T22:39:40.941231 4112 ] Stored in cache: __loader.o -> C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/a/d47223fbe263d5b044449fc285f7df-390943.o (copied)
+[2021-04-15T22:39:40.941231 4112 ] Added object file hash to C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/7/9f85b98776d66898626f47d2f7671d-3986.manifest
+[2021-04-15T22:39:40.941231 4112 ] Acquired lock C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/stats.lock
+[2021-04-15T22:39:40.956884 4112 ] Releasing lock C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/stats.lock
+[2021-04-15T22:39:40.956884 4112 ] Result: cache miss
+[2021-04-15T22:39:40.956884 4112 ] Acquired lock C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/stats.lock
+[2021-04-15T22:39:40.956884 4112 ] Releasing lock C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/stats.lock
+[2021-04-15T22:39:41.186033 8180 ] Unlink C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/f/b7b2f352e952f8bc5580e47a63c822-571476.o.tmp.stdout.DESKTOP-7E90VAO.8180.1QBI6D
+[2021-04-15T22:39:41.186033 8180 ] Unlink C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/f/b7b2f352e952f8bc5580e47a63c822-571476.o.tmp.stderr.DESKTOP-7E90VAO.8180.SS92c3
+[2021-04-15T22:39:41.186033 8180 ] Copying module.need.crawl.init.o to C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/f/b7b2f352e952f8bc5580e47a63c822-571476.o via C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/f/b7b2f352e952f8bc5580e47a63c822-571476.o.DESKTOP-7E90VAO.8180.1Apgjk (uncompressed)
+[2021-04-15T22:39:41.186033 8180 ] Stored in cache: module.need.crawl.init.o -> C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/f/b7b2f352e952f8bc5580e47a63c822-571476.o (copied)
+[2021-04-15T22:39:41.186033 15796] Unlink C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/8/9b56f332226570f824513cf0db37f2-570060.o.tmp.stdout.DESKTOP-7E90VAO.15796.1QBI6D
+[2021-04-15T22:39:41.186033 15796] Unlink C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/8/9b56f332226570f824513cf0db37f2-570060.o.tmp.stderr.DESKTOP-7E90VAO.15796.SS92c3
+[2021-04-15T22:39:41.186033 15796] Copying module.need.crawl.o to C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/8/9b56f332226570f824513cf0db37f2-570060.o via C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/8/9b56f332226570f824513cf0db37f2-570060.o.DESKTOP-7E90VAO.15796.1Apgjk (uncompressed)
+[2021-04-15T22:39:41.186033 8180 ] Added object file hash to C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/d/1912e0d37b687737265cc49dc6ab40-19839.manifest
+[2021-04-15T22:39:41.186033 8180 ] Acquired lock C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/stats.lock
+[2021-04-15T22:39:41.186033 15796] Stored in cache: module.need.crawl.o -> C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/8/9b56f332226570f824513cf0db37f2-570060.o (copied)
+[2021-04-15T22:39:41.186033 8180 ] Releasing lock C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/stats.lock
+[2021-04-15T22:39:41.186033 8180 ] Result: cache miss
+[2021-04-15T22:39:41.186033 8180 ] Acquired lock C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/stats.lock
+[2021-04-15T22:39:41.196001 15796] Added object file hash to C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/f/7ca5ca7c1932c211858f7425b65a46-17985.manifest
+[2021-04-15T22:39:41.197011 15796] Acquired lock C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/stats.lock
+[2021-04-15T22:39:41.197011 8180 ] Releasing lock C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/stats.lock
+[2021-04-15T22:39:41.197011 15796] Releasing lock C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/stats.lock
+[2021-04-15T22:39:41.197011 15796] Result: cache miss
+[2021-04-15T22:39:41.197011 15796] Acquired lock C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/stats.lock
+[2021-04-15T22:39:41.197011 15796] Releasing lock C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/stats.lock
+[2021-04-15T22:39:41.397854 14776] Unlink C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/5/7/77dac25c3198ea38d85c1e515f0857-635118.o.tmp.stdout.DESKTOP-7E90VAO.14776.1QBI6D
+[2021-04-15T22:39:41.397854 14776] Unlink C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/5/7/77dac25c3198ea38d85c1e515f0857-635118.o.tmp.stderr.DESKTOP-7E90VAO.14776.SS92c3
+[2021-04-15T22:39:41.397854 14776] Copying module.need.crawl.crawlCore.o to C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/5/7/77dac25c3198ea38d85c1e515f0857-635118.o via C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/5/7/77dac25c3198ea38d85c1e515f0857-635118.o.DESKTOP-7E90VAO.14776.1Apgjk (uncompressed)
+[2021-04-15T22:39:41.397854 14776] Stored in cache: module.need.crawl.crawlCore.o -> C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/5/7/77dac25c3198ea38d85c1e515f0857-635118.o (copied)
+[2021-04-15T22:39:41.397854 14776] Added object file hash to C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/a/8af4e902f963ebc917113557b43db0-88492.manifest
+[2021-04-15T22:39:41.397854 14776] Acquired lock C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/stats.lock
+[2021-04-15T22:39:41.397854 14776] Releasing lock C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/stats.lock
+[2021-04-15T22:39:41.397854 14776] Result: cache miss
+[2021-04-15T22:39:41.397854 14776] Acquired lock C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/5/stats.lock
+[2021-04-15T22:39:41.397854 14776] Releasing lock C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/5/stats.lock
+[2021-04-15T22:39:41.655555 9144 ] === CCACHE 3.7.12 STARTED =========================================
+[2021-04-15T22:39:41.655555 9144 ] Config: (default) base_dir = 
+[2021-04-15T22:39:41.655555 9144 ] Config: (environment) cache_dir = C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-04-15T22:39:41.655555 9144 ] Config: (default) cache_dir_levels = 2
+[2021-04-15T22:39:41.655555 9144 ] Config: (default) compiler = 
+[2021-04-15T22:39:41.655555 9144 ] Config: (default) compiler_check = mtime
+[2021-04-15T22:39:41.655555 9144 ] Config: (default) compression = false
+[2021-04-15T22:39:41.655555 9144 ] Config: (default) compression_level = 6
+[2021-04-15T22:39:41.655555 9144 ] Config: (default) cpp_extension = 
+[2021-04-15T22:39:41.655555 9144 ] Config: (default) debug = false
+[2021-04-15T22:39:41.655555 9144 ] Config: (default) depend_mode = false
+[2021-04-15T22:39:41.655555 9144 ] Config: (default) direct_mode = true
+[2021-04-15T22:39:41.655555 9144 ] Config: (default) disable = false
+[2021-04-15T22:39:41.655555 9144 ] Config: (default) extra_files_to_hash = 
+[2021-04-15T22:39:41.655555 9144 ] Config: (default) hard_link = false
+[2021-04-15T22:39:41.655555 9144 ] Config: (default) hash_dir = true
+[2021-04-15T22:39:41.655555 9144 ] Config: (default) ignore_headers_in_manifest = 
+[2021-04-15T22:39:41.655555 9144 ] Config: (default) keep_comments_cpp = false
+[2021-04-15T22:39:41.655555 9144 ] Config: (default) limit_multiple = 0.8
+[2021-04-15T22:39:41.655555 9144 ] Config: (environment) log_file = E:\code\Python\Searcher\main.build\ccache-1028.txt
+[2021-04-15T22:39:41.655555 9144 ] Config: (default) max_files = 0
+[2021-04-15T22:39:41.655555 9144 ] Config: (C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-04-15T22:39:41.655555 9144 ] Config: (default) path = 
+[2021-04-15T22:39:41.655555 9144 ] Config: (default) pch_external_checksum = false
+[2021-04-15T22:39:41.655555 9144 ] Config: (default) prefix_command = 
+[2021-04-15T22:39:41.655555 9144 ] Config: (default) prefix_command_cpp = 
+[2021-04-15T22:39:41.655555 9144 ] Config: (default) read_only = false
+[2021-04-15T22:39:41.655555 9144 ] Config: (default) read_only_direct = false
+[2021-04-15T22:39:41.655555 9144 ] Config: (default) recache = false
+[2021-04-15T22:39:41.655555 9144 ] Config: (default) run_second_cpp = true
+[2021-04-15T22:39:41.655555 9144 ] Config: (default) sloppiness = 
+[2021-04-15T22:39:41.655555 9144 ] Config: (default) stats = true
+[2021-04-15T22:39:41.655555 9144 ] Config: (default) temporary_dir = 
+[2021-04-15T22:39:41.655555 9144 ] Config: (default) umask = 
+[2021-04-15T22:39:41.656554 9144 ] Command line: C:\Users\HP\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe D:\mingw-w64\bin\gcc.exe -o static_src\CompiledCodeHelpers.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D_NUITKA_WINMAIN_ENTRY_POINT -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -ID:\Python\Python39\include -I. -ID:\Python\Python39\lib\site-packages\nuitka\build\include -ID:\Python\Python39\lib\site-packages\nuitka\build\static_src static_src\CompiledCodeHelpers.c
+[2021-04-15T22:39:41.656554 9144 ] Hostname: DESKTOP-7E90VAO
+[2021-04-15T22:39:41.656554 9144 ] Working directory: E:\code\Python\Searcher\main.build
+[2021-04-15T22:39:41.656554 9144 ] Source file: static_src\CompiledCodeHelpers.c
+[2021-04-15T22:39:41.656554 9144 ] Object file: static_src\CompiledCodeHelpers.o
+[2021-04-15T22:39:41.656554 9144 ] Trying direct lookup
+[2021-04-15T22:39:41.657554 9144 ] Looking for object file hash in C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/e/90e31366f7a78528b2406c6f3f62a7-57125.manifest
+[2021-04-15T22:39:41.668070 10396] === CCACHE 3.7.12 STARTED =========================================
+[2021-04-15T22:39:41.668070 10396] Config: (default) base_dir = 
+[2021-04-15T22:39:41.668070 10396] Config: (environment) cache_dir = C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-04-15T22:39:41.668070 10396] Config: (default) cache_dir_levels = 2
+[2021-04-15T22:39:41.668070 10396] Config: (default) compiler = 
+[2021-04-15T22:39:41.668070 10396] Config: (default) compiler_check = mtime
+[2021-04-15T22:39:41.668070 10396] Config: (default) compression = false
+[2021-04-15T22:39:41.668070 10396] Config: (default) compression_level = 6
+[2021-04-15T22:39:41.668070 10396] Config: (default) cpp_extension = 
+[2021-04-15T22:39:41.668070 10396] Config: (default) debug = false
+[2021-04-15T22:39:41.668070 10396] Config: (default) depend_mode = false
+[2021-04-15T22:39:41.668070 10396] Config: (default) direct_mode = true
+[2021-04-15T22:39:41.668070 10396] Config: (default) disable = false
+[2021-04-15T22:39:41.668070 10396] Config: (default) extra_files_to_hash = 
+[2021-04-15T22:39:41.668070 10396] Config: (default) hard_link = false
+[2021-04-15T22:39:41.668070 10396] Config: (default) hash_dir = true
+[2021-04-15T22:39:41.668070 10396] Config: (default) ignore_headers_in_manifest = 
+[2021-04-15T22:39:41.668070 10396] Config: (default) keep_comments_cpp = false
+[2021-04-15T22:39:41.668070 10396] Config: (default) limit_multiple = 0.8
+[2021-04-15T22:39:41.668070 10396] Config: (environment) log_file = E:\code\Python\Searcher\main.build\ccache-1028.txt
+[2021-04-15T22:39:41.668070 10396] Config: (default) max_files = 0
+[2021-04-15T22:39:41.668070 10396] Config: (C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-04-15T22:39:41.668070 10396] Config: (default) path = 
+[2021-04-15T22:39:41.668070 10396] Config: (default) pch_external_checksum = false
+[2021-04-15T22:39:41.668070 10396] Config: (default) prefix_command = 
+[2021-04-15T22:39:41.668070 10396] Config: (default) prefix_command_cpp = 
+[2021-04-15T22:39:41.668070 10396] Config: (default) read_only = false
+[2021-04-15T22:39:41.668070 10396] Config: (default) read_only_direct = false
+[2021-04-15T22:39:41.668070 10396] Config: (default) recache = false
+[2021-04-15T22:39:41.668070 10396] Config: (default) run_second_cpp = true
+[2021-04-15T22:39:41.668070 10396] Config: (default) sloppiness = 
+[2021-04-15T22:39:41.668070 10396] Config: (default) stats = true
+[2021-04-15T22:39:41.668070 10396] Config: (default) temporary_dir = 
+[2021-04-15T22:39:41.668070 10396] Config: (default) umask = 
+[2021-04-15T22:39:41.668070 10396] Command line: C:\Users\HP\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe D:\mingw-w64\bin\gcc.exe -o static_src\InspectPatcher.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D_NUITKA_WINMAIN_ENTRY_POINT -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -ID:\Python\Python39\include -I. -ID:\Python\Python39\lib\site-packages\nuitka\build\include -ID:\Python\Python39\lib\site-packages\nuitka\build\static_src static_src\InspectPatcher.c
+[2021-04-15T22:39:41.668070 10396] Hostname: DESKTOP-7E90VAO
+[2021-04-15T22:39:41.668070 10396] Working directory: E:\code\Python\Searcher\main.build
+[2021-04-15T22:39:41.668070 10396] Source file: static_src\InspectPatcher.c
+[2021-04-15T22:39:41.668070 10396] Object file: static_src\InspectPatcher.o
+[2021-04-15T22:39:41.669069 10396] Trying direct lookup
+[2021-04-15T22:39:41.669069 10396] Looking for object file hash in C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/1/fa5611b27a558a2f8a9f7929d2ae1a-13648.manifest
+[2021-04-15T22:39:41.764895 10396] Got object file hash from manifest
+[2021-04-15T22:39:41.780537 10396] Copying C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/c/1534ffd2d8713ae12b1efc77811d7f-574305.o to static_src\InspectPatcher.o (uncompressed)
+[2021-04-15T22:39:41.780537 10396] Created from cache: C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/c/1534ffd2d8713ae12b1efc77811d7f-574305.o -> static_src\InspectPatcher.o
+[2021-04-15T22:39:41.780537 10396] Succeeded getting cached result
+[2021-04-15T22:39:41.780537 10396] Result: cache hit (direct)
+[2021-04-15T22:39:41.780537 10396] Acquired lock C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/stats.lock
+[2021-04-15T22:39:41.780537 10396] Releasing lock C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/stats.lock
+[2021-04-15T22:39:41.843054 9688 ] === CCACHE 3.7.12 STARTED =========================================
+[2021-04-15T22:39:41.843054 9688 ] Config: (default) base_dir = 
+[2021-04-15T22:39:41.843054 9688 ] Config: (environment) cache_dir = C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-04-15T22:39:41.843054 9688 ] Config: (default) cache_dir_levels = 2
+[2021-04-15T22:39:41.843054 9688 ] Config: (default) compiler = 
+[2021-04-15T22:39:41.843054 9688 ] Config: (default) compiler_check = mtime
+[2021-04-15T22:39:41.843054 9688 ] Config: (default) compression = false
+[2021-04-15T22:39:41.843054 9688 ] Config: (default) compression_level = 6
+[2021-04-15T22:39:41.843054 9688 ] Config: (default) cpp_extension = 
+[2021-04-15T22:39:41.843054 9688 ] Config: (default) debug = false
+[2021-04-15T22:39:41.843054 9688 ] Config: (default) depend_mode = false
+[2021-04-15T22:39:41.843054 9688 ] Config: (default) direct_mode = true
+[2021-04-15T22:39:41.843054 9688 ] Config: (default) disable = false
+[2021-04-15T22:39:41.843054 9688 ] Config: (default) extra_files_to_hash = 
+[2021-04-15T22:39:41.843054 9688 ] Config: (default) hard_link = false
+[2021-04-15T22:39:41.843054 9688 ] Config: (default) hash_dir = true
+[2021-04-15T22:39:41.843054 9688 ] Config: (default) ignore_headers_in_manifest = 
+[2021-04-15T22:39:41.843054 9688 ] Config: (default) keep_comments_cpp = false
+[2021-04-15T22:39:41.843054 9688 ] Config: (default) limit_multiple = 0.8
+[2021-04-15T22:39:41.843054 9688 ] Config: (environment) log_file = E:\code\Python\Searcher\main.build\ccache-1028.txt
+[2021-04-15T22:39:41.843054 9688 ] Config: (default) max_files = 0
+[2021-04-15T22:39:41.843054 9688 ] Config: (C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-04-15T22:39:41.843054 9688 ] Config: (default) path = 
+[2021-04-15T22:39:41.843054 9688 ] Config: (default) pch_external_checksum = false
+[2021-04-15T22:39:41.843054 9688 ] Config: (default) prefix_command = 
+[2021-04-15T22:39:41.843054 9688 ] Config: (default) prefix_command_cpp = 
+[2021-04-15T22:39:41.843054 9688 ] Config: (default) read_only = false
+[2021-04-15T22:39:41.843054 9688 ] Config: (default) read_only_direct = false
+[2021-04-15T22:39:41.843054 9688 ] Config: (default) recache = false
+[2021-04-15T22:39:41.843054 9688 ] Config: (default) run_second_cpp = true
+[2021-04-15T22:39:41.843054 9688 ] Config: (default) sloppiness = 
+[2021-04-15T22:39:41.843054 9688 ] Config: (default) stats = true
+[2021-04-15T22:39:41.843054 9688 ] Config: (default) temporary_dir = 
+[2021-04-15T22:39:41.843054 9688 ] Config: (default) umask = 
+[2021-04-15T22:39:41.843054 9688 ] Command line: C:\Users\HP\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe D:\mingw-w64\bin\gcc.exe -o static_src\MetaPathBasedLoader.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D_NUITKA_WINMAIN_ENTRY_POINT -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -ID:\Python\Python39\include -I. -ID:\Python\Python39\lib\site-packages\nuitka\build\include -ID:\Python\Python39\lib\site-packages\nuitka\build\static_src static_src\MetaPathBasedLoader.c
+[2021-04-15T22:39:41.843054 9688 ] Hostname: DESKTOP-7E90VAO
+[2021-04-15T22:39:41.843054 9688 ] Working directory: E:\code\Python\Searcher\main.build
+[2021-04-15T22:39:41.843054 9688 ] Source file: static_src\MetaPathBasedLoader.c
+[2021-04-15T22:39:41.843054 9688 ] Object file: static_src\MetaPathBasedLoader.o
+[2021-04-15T22:39:41.843054 9688 ] Trying direct lookup
+[2021-04-15T22:39:41.843054 9688 ] Looking for object file hash in C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/9/9/84c518aa0d80d59434c0dab1e81c7b-52027.manifest
+[2021-04-15T22:39:43.561527 9688 ] Got object file hash from manifest
+[2021-04-15T22:39:43.561527 9688 ] Copying C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/8/fe32ac31d4b241a8f3a2d9d3926e2b-2783643.o to static_src\MetaPathBasedLoader.o (uncompressed)
+[2021-04-15T22:39:43.561527 9688 ] Created from cache: C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/8/fe32ac31d4b241a8f3a2d9d3926e2b-2783643.o -> static_src\MetaPathBasedLoader.o
+[2021-04-15T22:39:43.561527 9688 ] Succeeded getting cached result
+[2021-04-15T22:39:43.561527 9688 ] Result: cache hit (direct)
+[2021-04-15T22:39:43.561527 9688 ] Acquired lock C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/stats.lock
+[2021-04-15T22:39:43.561527 9688 ] Releasing lock C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/f/stats.lock
+[2021-04-15T22:39:43.608406 9832 ] Got object file hash from manifest
+[2021-04-15T22:39:43.608406 9832 ] Copying C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/4/dd81c9ee2730329d542ca260795a41-3942951.o to static_src\MainProgram.o (uncompressed)
+[2021-04-15T22:39:43.608406 9832 ] Created from cache: C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/4/dd81c9ee2730329d542ca260795a41-3942951.o -> static_src\MainProgram.o
+[2021-04-15T22:39:43.608406 9832 ] Succeeded getting cached result
+[2021-04-15T22:39:43.608406 9832 ] Result: cache hit (direct)
+[2021-04-15T22:39:43.608406 9832 ] Acquired lock C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/stats.lock
+[2021-04-15T22:39:43.608406 9832 ] Releasing lock C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/stats.lock
+[2021-04-15T22:39:43.608406 9144 ] Got object file hash from manifest
+[2021-04-15T22:39:43.608406 9144 ] Copying C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/f/b85d8be2f10ace9d425457ec92791a-5107772.o to static_src\CompiledCodeHelpers.o (uncompressed)
+[2021-04-15T22:39:43.608406 9144 ] Created from cache: C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/f/b85d8be2f10ace9d425457ec92791a-5107772.o -> static_src\CompiledCodeHelpers.o
+[2021-04-15T22:39:43.608406 9144 ] Succeeded getting cached result
+[2021-04-15T22:39:43.608406 9144 ] Result: cache hit (direct)
+[2021-04-15T22:39:43.608406 9144 ] Acquired lock C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/stats.lock
+[2021-04-15T22:39:43.624027 9144 ] Releasing lock C:\Users\HP\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/stats.lock

@@ -20,6 +20,10 @@ class Ui_Search(object):
         Search.resize(500, 500)
         Search.setMinimumSize(QSize(500, 500))
         Search.setMaximumSize(QSize(500, 500))
+        icon = QIcon()
+        icon.addFile(u"02.ico", QSize(), QIcon.Normal, QIcon.Off)
+        Search.setWindowIcon(icon)
+        Search.setIconSize(QSize(50, 50))
         self.centralwidget = QWidget(Search)
         self.centralwidget.setObjectName(u"centralwidget")
         self.verticalLayout_3 = QVBoxLayout(self.centralwidget)
@@ -95,6 +99,17 @@ class Ui_Search(object):
 
         self.verticalLayout_3.addWidget(self.answer)
 
+        self.label_2 = QLabel(self.centralwidget)
+        self.label_2.setObjectName(u"label_2")
+        sizePolicy2 = QSizePolicy(QSizePolicy.Preferred, QSizePolicy.Preferred)
+        sizePolicy2.setHorizontalStretch(0)
+        sizePolicy2.setVerticalStretch(0)
+        sizePolicy2.setHeightForWidth(self.label_2.sizePolicy().hasHeightForWidth())
+        self.label_2.setSizePolicy(sizePolicy2)
+        self.label_2.setAlignment(Qt.AlignRight|Qt.AlignTrailing|Qt.AlignVCenter)
+
+        self.verticalLayout_3.addWidget(self.label_2)
+
         Search.setCentralWidget(self.centralwidget)
         self.statusbar = QStatusBar(Search)
         self.statusbar.setObjectName(u"statusbar")
@@ -126,5 +141,6 @@ class Ui_Search(object):
 "p, li { white-space: pre-wrap; }\n"
 "</style></head><body style=\" font-family:'\u5fae\u8f6f\u96c5\u9ed1'; font-size:18pt; font-weight:700; font-style:normal;\">\n"
 "<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'Segoe UI'; font-size:9pt; font-weight:400;\"><br /></p></body></html>", None))
+        self.label_2.setText(QCoreApplication.translate("Search", u"<html><head/><body><p><span style=\" font-weight:700;\">by \u4e09\u5143</span></p></body></html>", None))
     # retranslateUi
 
